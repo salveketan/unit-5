@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "ketan",
+      "age": "25",
+      "address": "abc,ehfgaa mndaksh, kagsdh,khvv, india",
+      "department": "Maintainence",
+      "salary": "20000",
+      "marital_state": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "shubham",
+      "age": "20",
+      "address": "s,djbf",
+      "department": "Account",
+      "salary": "28733",
+      "marital_state": "unmarried",
+      "id": 5
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital_state": "",
+      "id": 6
+    },
+    {
+      "name": "shlok",
+      "age": "15",
+      "address": "34243",
+      "department": "Maintainence",
+      "salary": "32342",
+      "marital_state": "unmarried",
+      "id": 7
+    }
+  ]
+}
