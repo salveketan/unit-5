@@ -1,0 +1,14 @@
+.Category{
+    border: 1px solid black;
+    width: 1140px;
+    height: 50px;
+    margin: auto;
+    
+}
+.Category-link{
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    margin-top: 5px;
+    padding: 5px;
+}

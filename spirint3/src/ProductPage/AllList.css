@@ -1,0 +1,19 @@
+.AllProduct{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    /* grid-auto-rows: minmax(100px, auto); */
+    justify-content: space-evenly;
+    /* border: 1px solid red; */
+}
+
+
+.Product{
+    width: 300px;
+    /* border: 1px solid red; */
+    
+   
+}
+img{
+    width: 300px;
+}
