@@ -1,0 +1,31 @@
+
+.Navbar {
+    /* border: 1px solid red; */
+    width: 4%;
+    height: 700px;
+    text-align: center;
+    background-color: rgb(22, 25, 28);
+}
+
+.icon {
+    font-size: 30px;
+    margin-top: 15px;
+    color: white;
+}
+
+.middle {
+
+    height: 450px;
+}
+
+.top {
+
+    height: 200px;
+}
+
+.home {
+    /* border: 1px solid red; */
+    width: 95%;
+    padding: 30px;
+    background-color: rgb(34, 41, 47);
+}
